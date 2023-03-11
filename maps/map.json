@@ -4566,8 +4566,19 @@
          "width":299,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":86,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":85,
+ "nextlayerid":87,
  "nextobjectid":7,
  "orientation":"orthogonal",
  "properties":[
